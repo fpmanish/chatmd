@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Chat MD</title>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.css" rel="stylesheet">
+</head>
+<body>
+<!--| Nav Start |-->
+<div class="navbar navbar-inverse">
+  <div class="navbar-inner">
+    <div class="container"> <a class="brand" href="http://localhost/chatmd/"><img src="images/logo.png" width="150" height="29" alt="logo"></a>
+      <div id="Navi2">
+        <ul class="menu">
+          <li class="select first"><a href="#"><span class="hide767">Login</span><span class="show767"><img style="margin:0;" src="images/key.png" width="21" height="20" alt="key_icon"></span></a></li>
+          <li><a href="#"><span class="hide767">Sign up</span><span class="show767"><img src="images/lock.png" width="16" height="20" alt="Lock_icon"></span></a></li>
+        </ul>
+      </div>
+      <button style="background:none; box-shadow:none; border:none" type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+      <img src="images/Icon_menu.png" alt="icon"></button>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li class="home-icon-hide" style="background:none;"><a href="http://localhost/chatmd/" style=" padding: 6px 9px 9px 10px;margin: 0 14px 0 0;"> <img src="images/Home_icon_inner.png" width="16" height="17" alt="icon"></a></li>
+          <li class="active"><a href="http://localhost/chatmd/find-a-doctor.html">Find a Doctor</a></li>
+          <li><a href="#">View History</a></li>
+          <li><a href="#">Patient & Doctor Blog</a></li>
+          <li><a href="http://localhost/Chatmd/about-us.html">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!--| Nav End |--> 
+
+<!--| Contant Start |-->
+<div class="find_do_Top">
+  <div class="container">
+    <div class="row">
+      <div class="span12 width767">
+        <div class="find_do_head">Find Doctors</div>
+        <div class="find_do_Search">
+          <div class="span4 find_do_mainsel">
+            <label>
+              <select>
+                <option selected> Choose a Specialty ( Gynecologist, etc.) </option>
+                <option>The second option</option>
+              </select>
+            </label>
+          </div>
+          <div class="span4 Textfield2">
+            <input name="" type="text" placeholder="Enter your city and state  ( San Antonio, TX )">
+          </div>
+          <div class="span4 find_do_mainsel">
+            <label>
+              <select>
+                <option selected> Reason for chat ( anuresis, sickness. etc ) </option>
+                <option>The second option</option>
+              </select>
+            </label>
+          </div>
+          <div class="cls"></div>
+          <div class="span4 find_do_mainsel">
+            <label>
+              <select>
+                <option selected> Speaks ( English. Spanish, etc ) </option>
+                <option>The second option</option>
+              </select>
+            </label>
+          </div>
+          <div class="span4 find_do_mainsel">
+            <label>
+              <select>
+                <option selected> Gender </option>
+                <option>The second option</option>
+              </select>
+            </label>
+          </div>
+          <div class="span2 find_do_but">
+          	<button class="btn btn-inverse" type="button">Refine Search</button>
+            <!--<input type="submit" value="Refine Search" name="">-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="span12 top_do_bg">
+      <div class="span4 active"><span>1</span>Top Doctors</div>
+      <div class="span4 hide767"><span>2</span>Pick Your Appointment</div>
+      <div class="span4 hide767" style="border:none;"><span>3</span>Chat with a Doctor</div>
+      <div class="cls"></div>
+    </div>
+    <div class=" span12 top_do_bg_contant_box">
+      <div class="span1"><img src="images/Pic_1.jpg" alt="picture"></div>
+      <div class="span3">
+        <div class="do_name">Dr. Jacob Abraham</div>
+        <div class="do_post">Providence St. Vincent Medical Center</div>
+        <div class="do_dis">Specialties : <strong>Cardiology, Internal Medicine</strong></div>
+        <div class="do_dis">Accepting New Patients : <strong>Yes</strong></div>
+        <div class="do_blog"><a href="#">Doctors Blog</a></div>
+        <div class="bookonline_but">
+          <input type="submit" name="" value="Book Online">
+        </div>
+        <div class="cls"></div>
+      </div>
+      <div class="span7">
+        <table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_left.png" alt="arrow"></th>
+            <th class="top_doctor" width="12.57%"><strong>Tue</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Wed</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Thu</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Fri</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sat</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sun</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Mon</strong><br>09-17-13</th>
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_right.png" alt="arrow"></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="cls find_do_border"></div>
+      <div class="find_do_pd"></div>
+      
+      <div class="span1"><img src="images/Pic_2.jpg" alt="picture"></div>
+      <div class="span3">
+        <div class="do_name">Dr. Ronald D. Allen</div>
+        <div class="do_post">OHSU</div>
+        <div class="do_dis">Specialties : <strong>Obstetrics and Gynecology</strong></div>
+        <div class="do_dis">Accepting New Patients : <strong>Yes</strong></div>
+        <div class="do_blog"><a href="#">Doctors Blog</a></div>
+        <div class="bookonline_but">
+          <input type="submit" name="" value="Book Online">
+        </div>
+      </div>
+      <div class="span7">
+        <table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_left.png" alt="arrow"></th>
+            <th class="top_doctor" width="12.57%"><strong>Tue</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Wed</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Thu</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Fri</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sat</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sun</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Mon</strong><br>09-17-13</th>
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_right.png" alt="arrow"></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="cls find_do_border"></div>
+      <div class="find_do_pd"></div>
+      
+      <div class="span1"><img src="images/Pic_3.jpg" alt="picture"></div>
+      <div class="span3">
+        <div class="do_name">Dr. Alicia M. Ahn</div>
+        <div class="do_post">Kaiser Premanente Tualatin Medical Office</div>
+        <div class="do_dis">Specialties : <strong>Internal Medicine</strong></div>
+        <div class="do_dis">Accepting New Patients : <strong>Yes</strong></div>
+        <div class="do_blog"><a href="#">Doctors Blog</a></div>
+        <div class="bookonline_but">
+          <input type="submit" name="" value="Book Online">
+        </div>
+      </div>
+      <div class="span7">
+        <table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_left.png" alt="arrow"></th>
+            <th class="top_doctor" width="12.57%"><strong>Tue</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Wed</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Thu</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Fri</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sat</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sun</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Mon</strong><br>09-17-13</th>
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_right.png" alt="arrow"></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="cls find_do_border"></div>
+      <div class="find_do_pd"></div>
+      
+      <div class="span1"><img src="images/Pic_1.jpg" alt="picture"></div>
+      <div class="span3">
+        <div class="do_name">Dr. Amira Al-Uzri</div>
+        <div class="do_post">OHSU</div>
+        <div class="do_dis">Specialties : <strong>Pediatric Nephrology</strong></div>
+        <div class="do_dis">Accepting New Patients : <strong>Yes</strong></div>
+        <div class="do_blog"><a href="#">Doctors Blog</a></div>
+        <div class="bookonline_but">
+          <input type="submit" name="" value="Book Online">
+        </div>
+      </div>
+      <div class="span7">
+        <table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_left.png" alt="arrow"></th>
+            <th class="top_doctor" width="12.57%"><strong>Tue</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Wed</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Thu</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Fri</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sat</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Sun</strong><br>09-17-13</th>
+            <th class="top_doctor" width="12.57%"><strong>Mon</strong><br>09-17-13</th>
+            <th class="top_doctor" width="6%"><img src="images/table_arrow_right.png" alt="arrow"></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor" width="12.57%">3:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor" width="12.57%">4:15 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor" width="12.57%">4:25 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%">4:20 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor"></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%"></td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor" width="12.57%">4:30 pm</td>
+            <td class="top_doctor"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="cls"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<!--| Contant End |--> 
+
+<!--| footer Start |-->
+<div class="Foot">
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <div class="span6 Navi3"> <a href="#">Home</a> <a href="#">Find a Doctor</a> <a href="#">View History</a> <a href="#">Patient & Doctor Blog</a> <a href="#">About Us</a>
+          <div class="cls"></div>
+        </div>
+        <div class="span6 Copyright">© 2013 Chat MD All Rights Reserved.</div>
+      </div>
+    </div>
+  </div>
+  <div class="cls"></div>
+</div>
+<!--| footer End |--> 
+<!--| Supprting JS |--> 
+<script src="http://code.jquery.com/jquery.js"></script> 
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

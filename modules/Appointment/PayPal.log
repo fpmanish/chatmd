@@ -1,0 +1,800 @@
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A16%3A43.754-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=078b56acc9cbe&responseEnvelope.build=10680030&payKey=AP-4CK79729400365728&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A19%3A06.189-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=95a31f9ce3741&responseEnvelope.build=10680030&payKey=AP-6HD5984978189780F&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A22%3A24.823-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5ad364df94d78&responseEnvelope.build=10680030&payKey=AP-2DV07681HR7964828&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-2DV07681HR7964828
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A23%3A02.659-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=09e93cfdade07&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=3M193721FC152710E&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=4L506162PU649850A&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-2DV07681HR7964828&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A26%3A23.484-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=152978c25e54c&responseEnvelope.build=10680030&payKey=AP-0K122443N7796580A&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-0K122443N7796580A
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T01%3A26%3A59.311-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=ecbd5a5557e38&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=2Y2078522G283114H&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=47N08957E3256563K&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-0K122443N7796580A&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T02%3A32%3A50.726-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=9458b3a9ad012&responseEnvelope.build=10680030&payKey=AP-3TU32535UF382073X&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-3TU32535UF382073X
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T02%3A33%3A29.331-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=1c7ba50ba4ddf&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=18T233820N952894G&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=1E413472KM2947519&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-3TU32535UF382073X&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T03%3A18%3A39.851-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=9b6fe8e54d6e9&responseEnvelope.build=10680030&payKey=AP-5DA82722LF820743V&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-5DA82722LF820743V
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T03%3A19%3A45.318-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5f4f94fcc2f0d&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=04U32020G43257502&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=7GP43873GE268111U&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-5DA82722LF820743V&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T03%3A49%3A55.362-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=2f062be504f9a&responseEnvelope.build=10680030&payKey=AP-96S7203064030945M&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-96S7203064030945M
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T03%3A50%3A34.174-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5556dc6060f6e&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=85P18183463016048&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=1VM41170MA039512F&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-96S7203064030945M&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A02%3A06.458-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=fc8add09b5d50&responseEnvelope.build=10680030&payKey=AP-9WP92072BN882242X&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-9WP92072BN882242X
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A02%3A39.595-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=15f645254dc85&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=1VU541317J814893U&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=58136706TG577563K&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-9WP92072BN882242X&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A14%3A06.210-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=a52b2e76990e0&responseEnvelope.build=10680030&payKey=AP-0S287736PC219522H&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-0S287736PC219522H
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A14%3A37.013-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=8be04a17fccb8&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=0R557889524082228&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=0DF69564BT069314U&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-0S287736PC219522H&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A16%3A48.074-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=16000540e19c8&responseEnvelope.build=10680030&payKey=AP-227802223S825683V&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-227802223S825683V
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A17%3A18.889-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=d9af2940976a0&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=38H2511989615442Y&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=8N761527U9992301J&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-227802223S825683V&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A56%3A25.678-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=4a13d14f59fe5&responseEnvelope.build=10680030&payKey=AP-3D897697886045520&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-3D897697886045520
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T04%3A56%3A59.338-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=4e84229351e4e&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=7EE60205YC905611V&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=6HT48701E4070762U&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-3D897697886045520&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A07%3A12.145-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=69974f6186449&responseEnvelope.build=10680030&payKey=AP-8WA53553AN401680G&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-8WA53553AN401680G
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A08%3A01.711-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=c2d09bd48ffe6&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=9R345270P72167140&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=5JD42254CT794672C&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-8WA53553AN401680G&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A27%3A05.840-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=12beab2d96404&responseEnvelope.build=10680030&payKey=AP-626251085T392482F&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-626251085T392482F
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A27%3A39.256-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5cd183cbae19a&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=07286617FF613374M&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=57W01399TN584170M&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-626251085T392482F&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A49%3A46.628-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5d424eeb6a4c3&responseEnvelope.build=10680030&payKey=AP-74T544000N428303R&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-74T544000N428303R
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T05%3A50%3A19.891-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=7d0aa71163b96&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=6CF44001D34923008&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=9R75610235917212N&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-74T544000N428303R&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T06%3A20%3A02.917-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=fdaa186daf690&responseEnvelope.build=10680030&payKey=AP-5CT22532A84943721&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-5CT22532A84943721
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T06%3A20%3A41.401-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=46352567a6e20&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=2HP59471M9680151K&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=8UM23229E3965784E&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-5CT22532A84943721&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T22%3A23%3A36.654-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=6814decb55a64&responseEnvelope.build=10680030&payKey=AP-81K421377T0331443&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-81K421377T0331443
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T22%3A24%3A48.564-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=17221a0f42207&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=2E7262149P169310F&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=8X364371K9802353F&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-81K421377T0331443&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T22%3A33%3A04.555-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=997e902eda0fc&responseEnvelope.build=10680030&payKey=AP-2ES60121T55977102&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-2ES60121T55977102
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-04-28T22%3A34%3A12.560-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=e35a92d8c9943&responseEnvelope.build=10680030&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=8UU65545P4088352X&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=6Y287603NV769540X&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan2%40futureprofilez.com&status=COMPLETED&payKey=AP-2ES60121T55977102&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan2%40futureprofilez.com&sender.accountId=LPKUFTPW2HX3W&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-05-22T13%3A08%3A07.585-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=0aa8c679e3cbb&responseEnvelope.build=10902368&payKey=AP-5N512251CP126105M&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T04%3A44%3A48.684-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=c7ae794e45ba4&responseEnvelope.build=10902368&payKey=AP-68F44942PN281235B&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-68F44942PN281235B
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T04%3A47%3A54.061-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5aaba22b13985&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=328249643X8313830&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=45.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=1TT637327E6801356&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan-facilitator%40futureprofilez.com&status=COMPLETED&payKey=AP-68F44942PN281235B&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan-facilitator%40futureprofilez.com&sender.accountId=MVQZJT4ZYYYK4&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T23%3A18%3A06.497-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=d30f31c66c9c1&responseEnvelope.build=10902368&payKey=AP-2KC83458KU095604T&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T23%3A20%3A35.786-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=fe2b62658b04c&responseEnvelope.build=10902368&payKey=AP-5VM85287HM781240T&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-5VM85287HM781240T
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T23%3A22%3A38.467-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=d86ef11693281&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=5BW36813DW2443635&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=45.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=8S213410KD4050111&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan-facilitator%40futureprofilez.com&status=COMPLETED&payKey=AP-5VM85287HM781240T&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan-facilitator%40futureprofilez.com&sender.accountId=MVQZJT4ZYYYK4&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T23%3A53%3A15.190-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=1f38333d51b7e&responseEnvelope.build=10902368&payKey=AP-07N83101R70530611&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-07N83101R70530611
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-03T23%3A54%3A44.582-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=c724e9e1a81a2&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=6D8696874X633754E&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=45.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=53T51133K40449834&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan-facilitator%40futureprofilez.com&status=COMPLETED&payKey=AP-07N83101R70530611&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan-facilitator%40futureprofilez.com&sender.accountId=MVQZJT4ZYYYK4&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-04T00%3A33%3A14.460-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=ee790ffe9ee49&responseEnvelope.build=10902368&payKey=AP-5NB3812367355510F&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-5NB3812367355510F
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-06-04T00%3A36%3A08.818-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=8f0dba23f84c6&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=2UP407872N3352823&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=45.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=33139339B35397727&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=satyanarayan-facilitator%40futureprofilez.com&status=COMPLETED&payKey=AP-5NB3812367355510F&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=satyanarayan-facilitator%40futureprofilez.com&sender.accountId=MVQZJT4ZYYYK4&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A04%3A31.205-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=f41fe6d66a5b2&responseEnvelope.build=10902368&payKey=AP-8U473346WN192504D&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-8U473346WN192504D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A05%3A49.881-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=7c4a883c7fc86&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=5LY37167YP881604G&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=2VL92025XU6804520&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-8U473346WN192504D&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A47%3A18.578-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=5113f506d1c84&responseEnvelope.build=10902368&payKey=AP-14T67495BS601645M&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-14T67495BS601645M
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A48%3A25.510-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=02306faee28d6&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=4MT78062Y8765320D&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=3MJ07212BD991221K&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-14T67495BS601645M&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A55%3A20.086-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=86a73f6746552&responseEnvelope.build=10902368&payKey=AP-9DB4088879051100R&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-9DB4088879051100R
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-03T22%3A55%3A59.667-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=0cddb07251c06&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=3FH08194XA899035Y&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=4AV99260T5115344T&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-9DB4088879051100R&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-04T23%3A23%3A10.191-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=667bf5129441f&responseEnvelope.build=10902368&payKey=AP-7CS67262GP017570C&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-7CS67262GP017570C
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-04T23%3A24%3A19.456-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=aef67418bdab4&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=0H0710113H6185136&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=1RN64722750652056&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-7CS67262GP017570C&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T05%3A53%3A44.975-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=3ae49ae9cb561&responseEnvelope.build=10902368&payKey=AP-8GB12423GH121253H&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-8GB12423GH121253H
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T05%3A54%3A21.366-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=563ed572c27e6&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=3W479829AU309911V&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=66X36903RA876440N&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-8GB12423GH121253H&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T05%3A57%3A49.945-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=901ece0e0c4e4&responseEnvelope.build=10902368&payKey=AP-51M0095450665824K&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-51M0095450665824K
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T05%3A58%3A30.962-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=c6fcbbed1f23e&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=5TY56626TP056751R&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=3NM25975A23399539&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-51M0095450665824K&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T05%3A59%3A58.598-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=1cec291075816&responseEnvelope.build=10902368&payKey=AP-4GX13805727804510&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-4GX13805727804510
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T06%3A00%3A36.266-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=00a2188b676b6&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=0SJ64227XL423790N&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=3KX68915ND319983T&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-4GX13805727804510&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=45&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T10%3A42%3A34.169-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=142e9ac42001d&responseEnvelope.build=10902368&payKey=AP-34E10630NK733443J&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-34E10630NK733443J
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T10%3A43%3A23.733-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=83dc94273d293&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=5AT72632JH414573N&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=45.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=2L2874770P2274301&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-34E10630NK733443J&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T10%3A59%3A59.500-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=66fd9f4c2aaf4&responseEnvelope.build=10902368&payKey=AP-82H37256RT014931J&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-82H37256RT014931J
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T11%3A00%3A36.299-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=b6d8eb4538ada&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=7YR85273EU1161112&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=7RE4721087938541G&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-82H37256RT014931J&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T11%3A04%3A16.155-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=c5494be1ec350&responseEnvelope.build=10902368&payKey=AP-8W199863GW821071U&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T11%3A05%3A39.992-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=4a24165ef9b93&responseEnvelope.build=10902368&payKey=AP-2G548334A4811904D&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-2G548334A4811904D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-05T11%3A06%3A20.253-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=a8c046ae8e0c0&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=7ME943384V2117003&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=7CU78386GN4755205&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-2G548334A4811904D&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A41%3A22.338-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=84b6a96ce994b&responseEnvelope.build=10902368&payKey=AP-1UK05326628073710&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-1UK05326628073710
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A42%3A10.025-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=2a13a405fc3f2&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=45E04160NJ7135025&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=4XV11534GG887842P&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-1UK05326628073710&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A46%3A05.053-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=751fcbe72c79e&responseEnvelope.build=10902368&payKey=AP-79F42660WL142564W&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-79F42660WL142564W
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A46%3A49.040-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=62eca863303ab&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=7KC241611L911613D&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=3NA098810K0529123&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-79F42660WL142564W&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&actionType=PAY&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&feesPayer=SENDER&receiverList.receiver(0).amount=50&receiverList.receiver(0).email=chandra-facilitator%40futureprofilez.com&receiverList.receiver(0).primary=false&reverseAllParallelPaymentsOnError=true&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A48%3A32.774-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=d42288a85939a&responseEnvelope.build=10902368&payKey=AP-0WJ61275YX482613P&paymentExecStatus=CREATED
+Pay: Received payResponse:
+PaymentDetails: Created paymentDetailsRequest Object
+PPAPIService: Request: requestEnvelope.errorLanguage=en_US&payKey=AP-0WJ61275YX482613P
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-USERID: chandra-facilitator_api1.futureprofilez.com
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-PASSWORD: 1389250990
+PPHttpConnection: Adding header X-PAYPAL-SECURITY-SIGNATURE: AFcWxV21C7fd0v3bYYYRCpSSRl31A8LFtVQJlHo2JNs2ax-fvyL8ICBg
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-RESPONSE-DATA-FORMAT: NV
+PPHttpConnection: Adding header X-PAYPAL-DEVICE-IPADDRESS: 192.185.48.144
+PPHttpConnection: Adding header X-PAYPAL-REQUEST-SOURCE: adaptivepayments-php-sdk-2.0.96
+PPHttpConnection: Adding header X-PAYPAL-APPLICATION-ID: APP-80W284485P519543T
+PPAPIService: Response: responseEnvelope.timestamp=2014-07-07T21%3A49%3A17.514-07%3A00&responseEnvelope.ack=Success&responseEnvelope.correlationId=423932345d0d8&responseEnvelope.build=10902368&cancelUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fcancel.php&currencyCode=USD&paymentInfoList.paymentInfo(0).transactionId=4L337100C48325830&paymentInfoList.paymentInfo(0).transactionStatus=COMPLETED&paymentInfoList.paymentInfo(0).receiver.amount=50.00&paymentInfoList.paymentInfo(0).receiver.email=chandra-facilitator%40futureprofilez.com&paymentInfoList.paymentInfo(0).receiver.primary=false&paymentInfoList.paymentInfo(0).receiver.paymentType=SERVICE&paymentInfoList.paymentInfo(0).receiver.accountId=LAJGJN7KHW9LA&paymentInfoList.paymentInfo(0).refundedAmount=0.00&paymentInfoList.paymentInfo(0).pendingRefund=false&paymentInfoList.paymentInfo(0).senderTransactionId=4GY388835D836050E&paymentInfoList.paymentInfo(0).senderTransactionStatus=COMPLETED&returnUrl=http%3A%2F%2Fchat-md.com%2Fmodules%2FAppointment%2Fsuccess.php%3FpayKey%3D%24%7BpayKey%7D&senderEmail=lokesh%40fpdemo.com&status=COMPLETED&payKey=AP-0WJ61275YX482613P&actionType=PAY&feesPayer=SENDER&reverseAllParallelPaymentsOnError=true&sender.email=lokesh%40fpdemo.com&sender.accountId=8LCPUT844DX5A&sender.useCredentials=false
+PaymentDetails: Received paymentDetailsResponse:

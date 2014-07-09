@@ -1,0 +1,53 @@
+
+
+ul.chatMessageList{
+	display:block;
+	padding:10px;
+	margin:0 auto;
+	margin-bottom:20px;
+	list-style:none;
+	/*//min-height:320px;*/
+	height:320px;
+	border:1px solid #D3DEE4;
+	overflow-y: auto;
+}
+
+ul.chatMessageList li.chatMessage{
+	display:block;
+	padding:6px;
+	margin-bottom:10px;
+}
+ul.chatMessageList li.chatMessage:nth-child(2n+1){
+	background-color:#D3DEE4;
+}
+
+ul.chatMessageList li.chatMessage span{
+	font-weight:bold;
+	display:block;
+}
+
+ul.chatMessageList li.chatMessage p{
+	margin:0px;
+}
+
+
+
+fieldset{
+	margin:0px;
+	border:0px;
+	padding:5px 0px;
+}
+
+fieldset textarea{
+	width:400px;
+	height:100px;
+}
+
+fieldset input[type=submit]{
+	padding:5px;
+	cursor:pointer;
+}
+
+.errorMessage{
+	color:#f21212;
+}

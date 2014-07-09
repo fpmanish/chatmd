@@ -1,0 +1,3 @@
+<?php
+$pageNameMenu = "dashboard";
+?>

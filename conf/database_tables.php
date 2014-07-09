@@ -1,0 +1,31 @@
+<?php 
+/* Here we define constants for all database tables. */
+    define('TABLE_ADMIN','admin_table');
+    define('TABLE_HITS','hit_records_table');
+    define('TABLE_VIDEO','tbl_vidoes');
+	define('TABLE_PAGEMANAGER','tbl_page_manager');
+	define('TABLE_FAQ','tbl_faq');
+	define('TABLE_PATIENT','tbl_registration');
+	define('TABLE_SPECIALTY','tbl_specialty');
+	define('TABLE_DOCTOR','tbl_doctor');
+    define('TABLE_LANGUAGE','tbl_language');
+	define('TABLE_CATEGORY','tbl_faqcategory');
+	define('TABLE_MESSAGE','tbl_message');
+	define('TABLE_EMAILTEMPLATE','tbl_emailtemplate');
+	define('TABLE_META','tbl_meta');
+	define('TABLE_SECHUDLE','tbl_schedule');
+	define('TABLE_REASON','tbl_chatreason');
+	define('TABLE_COUNTRY','tbl_country');
+	define('TABLE_STATE','tbl_state');
+	define('TABLE_CITY','tbl_city');
+	define('TABLE_FINDSPECIALTY','tbl_findspecility');
+	define('TABLE_FINDLANGUAGE','tbl_findlanguage');
+	define('TABLE_FINDREASON','tbl_findchatreason');
+	define('TABLE_CHAT','tbl_chat');
+	define('TABLE_BLOG','tbl_blog');
+	define('TABLE_BLOGCATEGORY','tbl_blogcatergory');
+	define('TABLE_APPOINTMENT','tbl_appointment');
+	define('TABLE_ANNUAL_FEE','tbl_annual_fee');
+	define('TABLE_DOCTOR_REG_DETAILS','tbl_doctor_reg_detail');
+	define('TABLE_PAYPAL_DETAILS','tbl_paypal_detail');
+?>

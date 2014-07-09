@@ -1,0 +1,276 @@
+[14-Mar-2014 13:28:49] PHP Fatal error:  Uncaught exception 'OpenTokException' with message 'Failed to create session: Invalid response from server' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php:134
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/success.php(122): OpenTokSDK->createSession(NULL, Array)
+#1 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php on line 134
+[21-Mar-2014 16:19:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 27
+[21-Mar-2014 16:20:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 27
+[21-Mar-2014 16:21:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 27
+[21-Mar-2014 16:34:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/LoginSystem.class.php on line 121
+[21-Mar-2014 16:36:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 27
+[21-Mar-2014 16:37:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 27
+[22-Mar-2014 10:54:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/LoginSystem.class.php on line 121
+[22-Mar-2014 10:54:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 29
+[22-Mar-2014 10:55:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 29
+[22-Mar-2014 10:55:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/includes/header.php:6) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 29
+[22-Mar-2014 11:40:41] PHP Fatal error:  Call to undefined function  addaddress() in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 42
+[22-Mar-2014 11:43:09] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php on line 107
+[22-Mar-2014 11:43:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php:42) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/LoginSystem.class.php on line 121
+[22-Mar-2014 11:45:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php:42) in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/LoginSystem.class.php on line 121
+[22-Mar-2014 11:52:43] PHP Fatal error:  Call to undefined function  addaddress() in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 34
+[22-Mar-2014 11:53:33] PHP Fatal error:  Call to undefined function  addaddress() in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 34
+[22-Mar-2014 12:22:29] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:835
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(802): PHPMailer->PreSend()
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(33): PHPMailer->Send()
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 835
+[22-Mar-2014 12:23:31] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:835
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(802): PHPMailer->PreSend()
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(33): PHPMailer->Send()
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 835
+[22-Mar-2014 13:00:47] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 94
+[22-Mar-2014 13:02:34] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 95
+[22-Mar-2014 13:02:41] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 95
+[22-Mar-2014 13:04:27] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 93
+[22-Mar-2014 13:04:33] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 93
+[22-Mar-2014 13:05:50] PHP Parse error:  syntax error, unexpected $end in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php on line 75
+[22-Mar-2014 13:40:56] PHP Fatal error:  Call to a member function CheckAccessToken() on a non-object in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/mail_patient.php on line 5
+[22-Mar-2014 13:57:39] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(54): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 14:00:40] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(54): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:00:23] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(54): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:01:34] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(54): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:02:14] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(54): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:05:07] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(55): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:47:34] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:47:57] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 15:54:58] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 16:27:46] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(144): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 16:32:31] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(144): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 16:37:29] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 16:56:30] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 16:56:56] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 18:37:53] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 18:39:36] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:02:31] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:06:32] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(36): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:08:11] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(36): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:12:22] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:17:06] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:19:21] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:21:22] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(56): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:24:23] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(74): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:26:21] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(72): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:27:27] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(72): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[22-Mar-2014 19:28:24] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/payment_code.php(72): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/payment.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[26-Mar-2014 13:54:22] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:707
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(646): PHPMailer->AddAnAddress('to', NULL, '')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(80): PHPMailer->AddAddress(NULL)
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 707
+[26-Mar-2014 14:49:01] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Could not instantiate mail function.' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:989
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(884): PHPMailer->MailSend('Date: Wed, 26 M...', '<html >?<head>?...')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(803): PHPMailer->PostSend()
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(66): PHPMailer->Send()
+#3 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#4 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 989
+[28-Mar-2014 11:00:21] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Could not instantiate mail function.' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:989
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(884): PHPMailer->MailSend('Date: Fri, 28 M...', '<html >?<head>?...')
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(803): PHPMailer->PostSend()
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(86): PHPMailer->Send()
+#3 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#4 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 989
+[31-Mar-2014 10:46:43] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Message body empty' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php:835
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php(802): PHPMailer->PreSend()
+#1 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/code/patientDetails.php(82): PHPMailer->Send()
+#2 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/patient-detail.php(3): include_once('/home4/futurepr...')
+#3 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/classes/phpmailer.class.php on line 835
+[18-Apr-2014 10:08:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'OpenTokException' with message 'Failed to create session: Invalid response from server' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php:134
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/success.php(127): OpenTokSDK->createSession(NULL, Array)
+#1 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php on line 134
+[18-Apr-2014 10:10:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'OpenTokException' with message 'Failed to create session: Invalid response from server' in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php:134
+Stack trace:
+#0 /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/modules/Appointment/success.php(127): OpenTokSDK->createSession(NULL, Array)
+#1 {main}
+  thrown in /home4/futurepr/public_html/internetbusinesssolutionsindia/phpdemo/chandra/chatMD/lib/Chatlib/OpenTokSDK.php on line 134
+[04-Jul-2014 01:05:50 America/New_York] PHP Fatal error:  Uncaught exception 'OpenTokException' with message 'Failed to create session.' in /home1/km1079/public_html/lib/Chatlib/OpenTokSDK.php:149
+Stack trace:
+#0 /home1/km1079/public_html/modules/Appointment/success.php(127): OpenTokSDK->createSession(NULL, Array)
+#1 {main}
+  thrown in /home1/km1079/public_html/lib/Chatlib/OpenTokSDK.php on line 149

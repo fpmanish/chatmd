@@ -1,0 +1,1225 @@
+@media (max-width: 1199px) 
+{
+.navbar-inner {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1 {
+    font-size: 34px;
+    margin:18px auto 5px;
+}
+.doctor_img {
+    padding: 25px 25px 0 35px;
+}
+.find_do_Search .span4 {
+    width: 293px;
+}
+.top_do_bg .span4 {
+    width: 292px;
+}
+.span1 {
+    width: 125px;
+}
+.doctor_profile_box .span8 {
+    margin-left: 20px;
+    width: 678px;
+}
+.doctor_profile_box .span4 {
+    width: 357px;
+}
+.login_box .span4 {
+    width: 415px;
+}
+.ragister_box .span4 {
+    width: 415px;
+}
+
+.past-app .span9 {
+    width: 653px;
+}
+.inner_heading_bg .span3 {
+    width: 161px;
+}
+.edit-pro-bar .span4 {
+    width: 305px;
+}
+.nav-tabs > li > a, .nav-pills > li > a {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+}
+@media (max-width: 1024px) 
+{
+.navbar .nav {
+    margin: 7px 0 0 0;	
+}
+}
+@media (max-width: 980px) 
+{
+.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+	padding:7px 12px;
+	}
+h1 {
+	font-size: 28px;
+    margin: 22px auto 5px;
+	line-height: 35px;
+}
+h2 {
+    font-size: 26px;
+    line-height: 30px;
+}
+h4 {
+    padding-top: 0;
+}
+.content #Video_but {
+    margin-top: 10px;
+}
+.sign_up .span5 {
+    width: 365px;
+}
+
+}
+@media (min-width: 768px) and (max-width: 879px) 
+{
+.Bottom {
+    padding: 40px 0 90px;
+}
+.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+	padding:7px 8px;
+	margin: 0 1px !important;
+	}
+
+.nav-collapse .nav > li {
+    font-size: 12px;
+}
+#Navi2 ul.menu li { font-size:12px;}
+#Navi2 ul.menu li a {
+    margin: 13px 0 0 15px;
+}
+h1 {
+    font-size: 24px;
+	margin: 7px auto 5px;
+}
+h2 {
+    font-size: 24px;
+}
+  .container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 730px;
+  }
+  .span12 {
+    width: 730px;
+  }
+  .span4 {
+    width: 228px;
+	}
+	.Box .text {
+    padding: 10px
+	}
+	.Search input[type="submit"] {
+	font-size: 14px;
+    padding: 12px 8px 11px 38px;
+	}
+.span5 {
+    width: 229px;
+}
+.Copyright {
+    width: 300px;
+}
+.span8 {
+    width: 490px;
+}
+.span3 {
+    width: 180px;
+}
+.sign_up .span6 {
+    width: 350px;
+}
+.patient_img {
+    padding: 32px 27px 0 30px;
+}
+.sign_up .span5 {
+    width: 315px;
+}
+.doctor_img {
+    padding: 25px 25px 0;
+}
+.find_do_Search .span4 {
+    width: 223px !important;
+}
+.top_do_bg .span4 {
+    width: 222px !important;
+}
+.top_do_bg { font-size:18px; margin-top:10px;}
+
+.top_do_bg_contant_box .span1 {
+    width: 75px;
+}
+.span7 {
+    margin-left: 6px;
+    width: 420px !important;
+}
+.ans {
+    width: 95% !important;
+}
+
+.que {
+    width: 95.5%;
+}
+.find_do_Search input[type="text"] {
+    width: 90% !important;
+}
+.upload_image .span5 {
+    float: left;
+    width: 258px;
+	height: auto;
+}
+.dr_disc_box .image{
+    width: 100px;
+}
+.dr_disc_box .info {
+    margin-left: 10px;
+}
+
+.upload_form input[type="submit"] {
+	margin: 35px 0 0px 20px;
+	}
+.doctor_profile_box .span3 {
+    width: 140px;
+}
+.doctor_profile_box .span8 {
+    width: 550px !important;
+}
+.doctor_profile_box .span4 {
+    width: 282px !important;
+}
+.login_box .span5 {
+    width: 400px !important;
+}
+.login_box .span4 {
+    width: 295px !important;
+}
+
+.login_box input[type="text"], input[type="password"] {
+    width: 261px !important;
+}
+.ragister_box .span4 {
+    width: 265px !important;
+}
+.past-app .span9 {
+    width: 500px !important;
+}
+.past-app .span3 {
+    width: 210px;
+}
+.inner_heading_bg .span3 {
+    width: 123px !important;
+}
+.past-app-sidebar .span1 {
+    float: none;
+    margin: 0 auto 5px;
+    width: 40%;
+}
+.past-app-sidebar .span3 {
+    margin: 0 auto;
+    width: 100% !important;
+}
+.edit-pro-bar .span4 {
+    width: 235px !important;
+}
+.nav-tabs > li > a, .nav-pills > li > a {
+    padding-left: 21px !important;
+    padding-right: 21px !important;
+}
+}
+@media (max-width: 700px) 
+{
+	.Payment .name {
+		float:none;
+		text-align: left;
+		}
+	.banks a {
+    margin: 0 0 0 10px;
+}
+.Payment .upload_form input[type="text"] {
+    margin:2px 0 8px;
+}
+.Payment span img {
+    margin: -5px 0 0 10px;
+}
+.Payment .upload_form .mainsel select {
+	margin:4px 0 7px;
+	width: 73px;
+}
+.Payment .upload_form .mainsel select.two {
+    margin: -3px 0 0;
+}
+.Payment .upload_form .mainsel label:before {
+	top: -2px;
+	}
+.Payment .upload_form .mainsel label:after {
+	top: -2px;
+	}
+.Payment .upload_form input[type="submit"] {
+    margin: -15px 0 0 !important;
+	padding: 6px 24px;
+}
+.Payment .span12 {
+    width: 97%;
+}
+}
+@media (max-width: 599px) 
+{
+.home-icon-hide{ display:none;}
+.inner_heading_bg {
+    font-size: 18px !important;
+}
+.faq span {
+    width: 17px;
+}
+.que {
+    width: 94% !important;
+}
+.ans {
+    width: 94% !important;
+}
+.nav-collapse .nav {
+    float: none !important;
+}
+h4 {
+	display:none
+}
+h1 {
+    font-size: 22px !important;
+}
+.CalBHad{font-size:24px;}
+.SigText{font-size:22px; width:81%; padding-top:18px; padding-left:0%;}
+.SigArrow{width:18%;}
+.CalBHad{min-height:25px; padding-bottom:10px;}
+.Footer{padding:10px 0px 10px 0px;}
+.bgmid{padding-top:70px;}
+.bgleft{margin-left:-19px;}
+.bgright{margin-right:-19px;}
+.Calbox{padding:15px 10px 35px 10px;}
+.CalB1{float:none; width:100%; text-align:center;}
+.CalB2{float:none; width:100%; padding-left:0%; text-align:center; margin-top:20px;}
+.FootL{float:none; width:100%; text-align:center;}
+.FootR{float:none; width:100%; text-align:center;}
+.MidHad{background:url(../img/extract-main-hd-mob.png) no-repeat top right;font-size:33px; line-height:34px; padding:25px 20px;}
+.SerBox{width:100%; margin-left:auto; margin-left:auto; text-align:center; margin-bottom:15px; float:none;}
+.PadMidbox{padding:15px 5px 15px 5px;}
+.nav-collapse.collapse {
+	margin:0px;
+}
+.menuSml{display:block;}	
+.Logo{background:url(../img/bring-your-own-wine-s.png) no-repeat; width:152px; height:28px; display:block;}
+.nav-collapse {
+    clear: both;
+  }
+  .nav-collapse .nav {
+    margin: 0 0 10px;
+  }
+  .nav-collapse .nav > li {
+    float: none;
+	background:none
+  }
+  .nav-collapse .nav > li > a {
+    margin-bottom: 2px;
+  }
+  .nav-collapse .nav > .divider-vertical {
+    display: none;
+  }
+  .nav-collapse .nav .nav-header {
+    color: #777777;
+    text-shadow: none;
+  }
+  .nav-collapse .nav > li > a,
+  .nav-collapse .dropdown-menu a {
+    padding: 4px 10px;
+    font-weight: normal;
+    color: #777777;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+  }
+  .nav-collapse .btn {
+    padding: 4px 10px 4px;
+    font-weight: normal;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+  }
+  .nav-collapse .dropdown-menu li + li a {
+    margin-bottom: 2px;
+  }
+  .nav-collapse .nav > li > a:hover,
+  .nav-collapse .nav > li > a:focus,
+  .nav-collapse .dropdown-menu a:hover,
+  .nav-collapse .dropdown-menu a:focus {
+    background-color: #f2f2f2;
+  }
+  .navbar-inverse .nav-collapse .nav > li > a,
+  .navbar-inverse .nav-collapse .dropdown-menu a {
+    color: #fff;
+	margin: 0 !important;
+  }
+  .navbar-inverse .nav-collapse .nav > li > a:hover,
+  .navbar-inverse .nav-collapse .nav > li > a:focus,
+  .navbar-inverse .nav-collapse .dropdown-menu a:hover,
+  .navbar-inverse .nav-collapse .dropdown-menu a:focus {
+    background-color: #f4b23a;
+	color:#E1E9E9;
+  }
+  .nav-collapse.in .btn-group {
+    margin-top: 5px;
+    padding: 0;
+  }
+  .nav-collapse .dropdown-menu {
+    position: static;
+    top: auto;
+    left: auto;
+    float: none;
+    display: none;
+    max-width: none;
+    margin: 0 15px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .nav-collapse .open > .dropdown-menu {
+    display: block;
+  }
+  .nav-collapse .dropdown-menu:before,
+  .nav-collapse .dropdown-menu:after {
+    display: none;
+  }
+  .nav-collapse .dropdown-menu .divider {
+    display: none;
+  }
+  .nav-collapse .nav > li > .dropdown-menu:before,
+  .nav-collapse .nav > li > .dropdown-menu:after {
+    display: none;
+  }
+  .nav-collapse .navbar-form,
+  .nav-collapse .navbar-search {
+    float: none;
+    padding: 10px 15px;
+    margin: 10px 0;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
+  }
+  .navbar-inverse .nav-collapse .navbar-form,
+  .navbar-inverse .nav-collapse .navbar-search {
+    border-top-color: #111111;
+    border-bottom-color: #111111;
+  }
+  .navbar .nav-collapse .nav.pull-right {
+    float: none;
+    margin-left: 0;
+  }
+  .nav-collapse,
+  .nav-collapse.collapse {
+    overflow: hidden;
+    height: 0;
+  }
+.nav-collapse,.nav-collapse1,.nav-collapse2,.nav-collapse3{clear:both;}
+.FLink a{color:#fff; text-decoration:none; padding:0px 3px;}
+.FLink a:first-child{padding:0px 3px;}
+.Coppad5{padding-top:5px;}
+.PaddA20{padding:10px;}
+.PdTop20{padding-top:10px;}
+.PdTop40{padding-top:10px;}
+.backbg{background:url(../images/innerbacksmall.jpg) no-repeat left bottom;}
+.SerBox{width:61%; margin-left:auto; margin-right:auto; text-align:center; margin-bottom:15px; float:none;}
+.carousel-control {
+  width: 25px;
+  height: 25px;
+  font-size: 39px;
+  line-height: 18px;
+}
+.carousel-control.right {
+  left: auto;
+  right: 15px;
+}
+
+.smgahei{height:200px; width:100%;}
+.slide-back{width:253px;}
+	.slide-gall{margin:-175px 10px 0px;}
+	.slide-gall img{height:141px;}
+	.slide-bgmar{margin-top:-152px; margin-bottom:15px;}
+	.slide-bgmar img{height:163px;}
+.Payment .upload_form input.cvv[type="text"] {
+    width: 13%;
+}
+.find_do_Search input[type="text"] {
+    width: 93% !important;
+}
+.find_do_head {
+	padding: 5px 10px;
+	}
+.past-app .span9 {
+    width: 100% !important;
+}
+}
+@media (max-width: 568px) 
+{
+.Payment .upload_form input[type="text"] {
+    width: 40%;
+}
+.Payment .upload_form input.cvv[type="text"] {
+    width: 15%;
+}
+.Payment .border {
+    margin: 15px 0 5px;
+}
+
+.banks a img {
+    margin: 5px;
+}
+.banks {
+    text-align: center;
+}
+.login_box .span5 {
+    width: 345px !important;
+}
+.login_box .name {
+    float: none;
+    margin: 5px 0 0;
+    width: 100% ;
+}
+.login_box .input-prepend {
+    margin:2px 0 5px;
+	width: 100% !important;
+}
+.login_box input[type="text"], input[type="password"] {
+    width: 86% !important;
+}
+.ragister_box input[type="password"] {
+    width: 94% !important;
+}
+.login-text {
+    margin: 5px 0 0;
+}
+.ragister_box .span4 {
+    width: 60% !important;
+}
+.login-but {
+    float: left;
+    margin: 10px 0 0;
+}
+.edit-pro-bar .span4 {
+    margin: 0 !important;
+    padding-left: 11px !important;
+    text-align: left !important;
+    width: 100% !important;
+	float:none !important;
+	border-bottom: 1px solid #B5C2CA !important;
+	font-size:18px;
+}
+}
+@media (max-width: 480px) 
+{
+.edit-profile .radio_text {
+    height: 23px !important;
+}
+.edit-profile .name {
+    margin: 5px 0 0;
+}
+.edit-profile .ragi-input {
+    margin: 0 0 10px !important;
+}
+.login-but input[type="submit"] {
+    font-size: 16px;
+	padding: 5px 15px !important;
+}
+.span5 {
+    width: 330px !important;
+}
+.ragister_box textarea {
+	width:98% !important;
+	}
+.ragister_box .ragi-input2 input[type="text"] {
+    width: 16% !important;
+}
+.check {
+    margin: 0 7px 0 0 !important;
+}
+.ragister_box .name {
+    margin: 5px 0 0 !important;
+}
+.ragi-input {
+    margin: 0 !important;
+	}
+.ragi-input2 {
+    margin: 0 !important;
+	}
+.radio_text {
+    height: 18px !important;
+	}
+.doctor_profile_box .span3 {
+    margin: 0 auto 5px !important;
+    width: 30% !important;
+}
+.profile_form input[type="submit"] {
+    margin: 5px 0 !important;
+	padding: 5px 15px;
+}
+.profile-but {
+    width: 112px !important;
+}
+.schedule {
+    margin-top: 0;
+}
+.about_contant_box {
+    padding: 5px 7px !important;
+}
+h1 {
+    font-size: 20px !important;
+	line-height: 18px !important;
+	margin: 5px auto !important;
+}
+.navbar .brand img{	
+height: auto;
+    width: 80%;
+}
+#Navi2 ul.menu li a {
+    margin: 8px 0 0 20px;
+}
+.navbar .btn, .navbar .btn-group {
+    margin-top: 7px;
+}
+.navbar-inverse .navbar-inner {
+    padding-bottom: 0;
+}
+h2 {
+    line-height: 20px;
+}
+.Bottom {
+   padding: 10px 0 !important;
+   }
+.faq {
+    margin-left: 8px !important;
+}
+.que {
+    width: 93% !important;
+}
+.ans {
+    width: 93% !important;
+}
+.email_logo {
+    margin: 10px auto !important;
+}
+.email_box {
+    padding: 35px 15px 20px !important;
+    width: 85% !important;
+}
+.top_do_bg_contant_box .span1{
+    margin: 0 10px 0 10px !important;
+    width: 105px !important;
+	}
+.top_do_bg_contant_box .span3{
+    float: left;
+    width: 200px !important;
+	margin-left: 10px;
+	}
+.inner_heading_bg {
+    padding: 5px 0 4px 8px !important;
+}
+.Payment .upload_form input[type="text"] {
+    width: 79%;
+}
+.Payment span img {
+    margin: 0px 5px 0 10px;
+}
+.Payment .upload_form input[type="text"] {
+    width: 83%;
+}
+
+.Payment .upload_form input.cvv[type="text"] {
+    width: 21%;
+}
+.Payment .span8 {
+    margin: 5px 0 0 10px;
+}
+.Payment .detail {
+    margin-bottom: 5px;
+}
+.top_do_bg_contant_box .image {
+    width: 32%;
+}
+.upload_form .name {
+    float: none;
+    text-align: left;
+	}
+.upload_form input[type="text"] {
+	width:91%;
+	margin: 0 0 5px;
+	}
+.upload_form textarea {
+    width: 94%;
+	margin: 0 0 5px;
+}
+.upload_form input[type="file"] {
+    margin: 0 0 -20px 20px;
+	margin: 0 0 5px;
+}
+.upload_form input[type="submit"] {
+    margin: -20px 0 10px 20px !important;
+}
+.upload_form .mainsel select {
+	margin: 0 0 5px;
+	}
+.upload_form .mainsel label:before {
+    left: 67px;
+    top: -3px;
+}
+.orange {
+    margin: -20px 0 0;
+}
+.upload_image .upload_form input[type="submit"] {
+    margin: -15px 0 10px !important;
+    padding: 5px 20px;
+}
+.upload_form span a {
+    margin: -10px 0 0 10px !important;
+}
+.upload_image .span5 {
+    width: 95% !important;
+}
+.top_do_bg .span4 span {
+	font-size:24px;
+	}
+.top_do_bg .active {
+    padding: 5px 0 5px 10px !important;
+}
+.ragi-but input[type="submit"] {
+    font-size: 14px !important;
+}
+.past-app .top_doctor th strong {
+	font-weight:normal;
+}
+.past-app .top_doctor td strong {
+	font-weight:normal;
+}
+}
+
+@media (max-width: 380px) 
+{
+.edit-profile .name {
+    text-align: left;
+}
+.edit-profile .radio_text {
+    text-align: left;
+}
+.edit-profile .ragi-input {
+    margin: 0 0 5px !important;
+}
+.ragi-input .mainsel select {
+    width: 99% !important;
+}
+.ragister_box textarea {
+    width: 97% !important;
+}	
+.login_box input[type="text"], input[type="password"] {
+    width: 84%;
+}
+.login_box .span4 {
+    width: 45% !important;
+}
+.contact-info {
+    margin: 0 0 0 7px;
+}
+.profile_form .mainsel select {
+    margin: 2px 0 5px !important;
+	width: 80%;
+}
+.profile_form .mainsel label:before {right: 7px !important; top:-1px !important;}
+.profile_form .mainsel label:after {right: 7px !important; top:-1px !important;}
+.container {
+    width: 96% !important;
+}
+.navbar-inner {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+[class*="span"], .uneditable-input[class*="span"], .row-fluid [class*="span"] {
+    width: 99% !important;
+}
+.span2 {
+    margin: auto !important;
+    width: 257px !important;
+}
+#Navi2 ul.menu li a {
+    margin: 8px 0 0 15px;
+}
+h2 {
+	font-size:22px !important;
+}
+.que {
+    width: 91% !important;
+}
+.ans {
+    width: 91% !important;
+}
+.sign_up .span5 {
+    clear: none;
+    margin: auto !important;
+    width: 49% !important;
+}
+.sign_up .span6 {
+    margin: auto !important;
+    width: 54% !important;
+}
+.patient_img {
+    padding: 5px 35px 0 40px !important;
+}
+.doctor_img {
+    padding: 25px 25px 0 35px !important;
+}
+.border {
+    border: none;
+}
+.find_do_Search .span4 {
+    width: 90% !important;
+}
+.find_do_Search input[type="text"] { width:93%;}
+.top_do_bg_contant_box .span1 {
+    margin: 0 0 5px !important;
+    width: 100% !important;
+}
+.span1 img {
+    width: 35%;
+}
+.do_dis {
+    margin-top: 4px;
+}
+.do_blog {
+    margin-top: 0;
+}
+.top_do_bg_contant_box .span3 {
+    float: left;
+    margin-left: 0;
+    width: 100% !important;
+}
+.que {
+    line-height: 16px !important;
+}
+.about_image img {
+    width: 50%;
+}
+.sign_up span {
+    float: none;
+    font-size: 18px;
+	font-weight:bold;
+	line-height: 20px;
+}
+.patient_text {
+    padding: 10px 0 0 !important;
+}
+.Payment .upload_form input[type="text"] {
+    width: 73%;
+}
+.upload_form input[type="text"] {
+    width: 82%;
+}
+
+.upload_image input[type="text"] {
+    width: 90%;
+}
+.Navi3 {
+    line-height: 12px;
+}
+.top_do_bg_contant_box {
+	text-align:center;
+	}
+.top_do_bg_contant_box .upload_form{
+	text-align:left;
+	}
+.top_do_bg_contant_box .upload_image{
+	text-align:left;
+	}
+.bookonline_but {
+    margin: 5px auto;
+    width: 95px;
+}
+.bookonline_but input[type="submit"] {
+	padding: 4px 10px;
+	}
+.Payment .span12 {
+    width: 95% !important;
+}
+
+.Payment .upload_form input[type="text"] {
+    width: 81%;
+}
+.sign_up_but a {
+    padding: 5px 20px;
+}
+.sign_up_but{
+	margin: auto;
+    width: 103px;
+	}
+.ragister_box .span5 {
+    width: 90% !important;
+}
+.ragister_box .span4 {
+    width: 65% !important;
+}
+.ragister_box .ragi-input2 input[type="text"] {
+    width: 13% !important;
+	margin-right: 9px !important;
+}
+.ragister_box .ragi-input2 input.year[type="text"] {
+    width: 36% !important;
+}
+.check {
+    margin: 0 10px 0 0 !important;
+}
+.ragister_box input[type="text"] {
+    width: 92% !important;
+}
+.ragister_box input[type="password"] {
+    width: 92% !important;
+}
+.check-text {
+    width: 86% !important;
+}
+.login_box .span5 {
+    width: 90% !important;
+}
+.past-app .span3 {
+    width: 100% !important;
+}
+.dr_info {
+	text-align:center;
+	}
+.past-app-sidebar .span1 {
+    margin: 0 auto 5px !important;
+    width: 100% !important;
+}
+.show_380{ display:block;}
+.hide_380{ display:none;}
+}
+@media (max-width: 320px) 
+{
+.edit-profile input[type="text"] {
+    width: 92%;
+}
+.edit-profile input[type="password"] {
+    width: 92% !important;
+}
+.edit-profile .span10 {
+    width: 94% !important;
+}
+.ragister_box input[type="text"] {
+    width: 90% !important;
+}
+.ragister_box input[type="password"] {
+    width: 90% !important;
+}
+.login_box input[type="text"], input[type="password"] {
+    width: 82% !important;
+}
+.ragister_box .ragi-input2 input.year[type="text"] {
+    width: 33% !important;
+}	
+.ragister_box .ragi-input2 input[type="text"] {
+    width: 12% !important;
+}
+.ragister_box .ragi-input2 input.year[type="text"] {
+    width: 32% !important;
+}
+.login-text {
+    float: none;
+    margin: 5px auto;
+    text-align: center;
+}
+.ragister_box  .login-but {
+    float: right;
+    margin: 10px 0 0;
+	width: auto;
+}
+.login-but {
+    float: none;
+    margin: 10px auto;
+    width: 27%;
+}
+.hide-img-767 {
+    margin-top: 10px !important;
+}
+.doctor_profile_box .span3 {
+    width: 35% !important;
+}
+.profile_form .mainsel select {
+    width: 90%;
+}
+.Payment .span12 {
+    margin: 0px 0 0 10px !important;
+}
+.dr_disc_box .image, .info {
+    float: none;
+    margin: auto;
+}
+
+.dr_disc_box .info {
+    float: none;
+    margin: auto;
+    text-align: center;
+}
+
+.upload_form span a {
+    margin: -5px 0 5px 10px;
+}
+.Search input[type="text"] {
+    width:92.6%
+}
+.upload_form input[type="text"] {
+    width: 85%;
+}
+.upload_form textarea {
+    width: 90%;
+}
+.upload_form input[type="file"] {
+    width: 83%;
+}
+.progress_bar_text { font-size:12px;}
+
+.upload_image_que {
+    font-size: 12px;font-weight: bold;
+}
+.upload_image {
+    margin-top:0px;
+}
+.navbar .brand {
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+	width:40%;
+}
+h1 {
+    font-size: 16px !important;
+    line-height: 16px !important;
+}
+.navbar .brand img {
+    height: auto;
+    width: 100%;
+}
+.Search input[type="submit"] {
+    width: 100% !important;
+}
+.que {
+    width: 90% !important;
+}
+.ans {
+    width: 90% !important;
+}
+.find_do_Search input[type="text"] {
+    width: 90% !important;
+}
+.sign_up .span6 {
+    width: 62% !important;
+}
+
+.sign_up .span5 {
+    width: 56% !important;
+}
+.Payment .detail {
+    font-size: 13px;
+	}
+.Payment .upload_form input[type="text"] {
+    width: 78%;
+}
+.Payment .upload_form input.cvv[type="text"] {
+    width: 27%;
+}
+.upload_form .mainsel label:before {
+	top: -2px;
+	}
+.upload_form .mainsel label:after {
+	top: -2px;
+	}
+.dr_disc_box .star img {
+    margin: 0;
+}
+.dr_disc_box .post {
+    margin: 0;
+}
+
+.dr_disc_box .disc {
+    margin-top: 0;
+}
+.wb {
+    word-break: break-all;
+}
+}
+@media (max-width: 280px) 
+{
+.edit-profile .span10 {
+    width: 90% !important;
+}
+.edit-profile input[type="text"] {
+    width: 90%;
+}
+.edit-profile .ragi-input2 input[type="text"] {
+    margin-right: 10px;
+}
+.edit-profile input[type="password"] {
+    width: 90% !important;
+}
+.login_box input[type="text"], input[type="password"] {
+    width: 79% !important;
+}
+.Search input[type="text"] {
+    width: 91%;
+}
+
+.Search input[type="submit"] {
+    width: 98% !important;
+}
+h3 {
+    line-height: 18px;
+}
+.mainsel option {
+    font-size: 12px;
+}
+.patient_img {
+    padding: 0 27px 0 40px !important;
+}
+.ans {
+    width: 86% !important;
+}
+
+.inner_heading_bg {
+    font-size: 16px !important;
+}
+}
+@media (min-width: 240px) and (max-width: 279px) 
+{
+.edit-profile input[type="text"] {
+    width: 88%;
+}
+.edit-profile input[type="password"] {
+    width: 88% !important;
+}
+.check-text {
+    width: 82% !important;
+}
+.ragister_box input[type="text"] {
+    width: 87% !important;
+}
+.ragister_box input[type="password"] {
+    width: 87% !important;
+}
+.ragister_box textarea {
+    width: 95% !important;
+}
+.ragister_box .ragi-input2 input[type="text"] {
+    font-size: 12px !important;
+    width: 11% !important;
+	padding: 0 8px 0 7px !important;
+}
+.ragister_box .ragi-input2 input.year[type="text"] {
+    width: 30% !important;
+}
+.login_box input[type="text"], input[type="password"] {
+    width: 76% !important;
+}
+.navbar .brand {
+    width: 45% !important;
+}
+.top_do_bg_contant_box .image {
+    width: 31%;
+}
+.upload_image_que {
+    font-weight: normal;
+}
+.top_do_bg_contant_box .span6 {
+    width: 98.7% !important;
+}
+h1 {
+    font-size: 12px !important;
+    line-height: 13px !important;
+}
+.content #Video_but {
+    margin-top: -5px !important;
+}
+#Video_but img {
+    width: 7%;
+}
+h3 {
+    font-size: 14px !important;
+}
+h2 {
+	font-size:20px !important;
+}
+.Search input[type="text"] {
+    width: 90%;
+}
+.Search input[type="submit"] {
+    font-size:13px;
+}
+.Box .text {
+    padding: 0px 10px !important;
+}
+
+.span2 {
+    width: 219px !important;
+}
+.Bottom {
+    padding: 0 !important;
+}
+.que {
+    width: 86% !important;
+}
+.find_do_Search input[type="text"] {
+    width: 88% !important;
+}
+.inner_heading_bg {
+    line-height: 16px;
+}
+.sign_up .span6 {
+    width: 65% !important;
+}
+.sign_up .span5 {
+    width: 65% !important;
+}
+.Payment span img {
+    margin: 0px 0 0 4px;
+}
+.top_do_bg {
+    font-size: 16px !important;
+}
+.Payment .upload_form input[type="text"] {
+    width: 78%;
+}
+.Payment .mainsel {
+    width: 90%;
+}
+.Payment .upload_form input.cvv[type="text"] {
+    width: 37%;
+}
+
+.top_do_bg_contant_box .span12 {
+    width: 94% !important;
+}
+.faq {
+    margin-left: 8px !important;
+}
+.Payment .upload_form input[type="submit"] {
+    padding: 5px 16px;
+}
+.patient_text {
+    width: 155px;
+}
+}

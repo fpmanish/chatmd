@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Chat MD</title>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.css" rel="stylesheet">
+</head>
+<body>
+<!--| Nav Start |-->
+<div class="navbar navbar-inverse">
+  <div class="navbar-inner">
+    <div class="container">
+      
+      <a class="brand" href="index.html"><img src="images/logo.png" width="150" height="29" alt="logo"></a>
+      <div id="Navi2">
+        <ul class="menu">
+          <li class="first"><a href="login.html"><span class="hide767">Login</span><span class="show767"><img style="margin:0;" src="images/key.png" width="21" height="20" alt="key_icon"></span></a></li>
+          <li><a href="sign-up.html"><span class="hide767">Sign up</span><span class="show767"><img src="images/lock.png" width="16" height="20" alt="Lock_icon"></span></a></li>
+        </ul>
+      </div>
+      <button style="background:none; box-shadow:none; border:none" type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+      <img src="images/Icon_menu.png" alt="icon"></button>
+      
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li class="home-icon-hide"><a href="index.html" style=" padding: 6px 9px 9px 10px;margin: 0 14px 0 0;"> <img src="images/Home_icon_inner.png" width="16" height="17" alt="icon"></a></li>
+          <li><a href="find-a-doctor.html">Find a Doctor</a></li>
+          <li><a href="view-history.html">View History</a></li>
+          <li><a href="blog.html">Patient & Doctor Blog</a></li>
+          <li><a href="about-us.html">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!--| Nav End |--> 
+
+<!--| Contant Start |-->
+<div class="container">
+  <div class="row">
+    <div class="span12 edit-pro-bar">
+      <div class="span2"><a href="edit-doctor-profile.html">Profile</a></div>
+      <div class="span2"><a href="appointments.html">Appointments</a></div>
+      <div class="span2"><a href="schedule.html">Schedule</a></div>
+      <div class="span2"><a href="gallery.html">Gallery</a></div>
+      <div class="span2 active" style="border:none;"><a href="accounts.html">Accounts</a></div>
+      <div class="cls"></div>
+    </div>
+    <div class="span12 past-app top_do_bg_contant_box">
+      <div class="bs-docs-example">
+            <ul class="nav nav-tabs" id="myTab">
+              <li class="active"><a data-toggle="tab" href="#Billing"><span class="hide_480">Billing</span><span class="show_480">App</span></a></li>
+              <li class=""><a data-toggle="tab" href="#Transactions"><span class="hide_480">Transactions</span><span class="show_480">T P</span></a></li>
+              <li class=""><a data-toggle="tab" href="#Patients"><span class="hide_480">Patients List</span><span class="show_480">Pre</span></a></li>
+              <li class=""><a data-toggle="tab" href="#Payments"><span class="hide_480">Payments</span><span class="show_480">Bil</span></a></li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+              <div id="Billing" class="tab-pane fade active in">
+                <div class="app-info">
+            	<table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="30%"><strong><span class="hide_480">Doctor's Name</span><span class="show_480">Dr Name</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Date</span><span class="show_480">App Date</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Time</span><span class="show_480">App Time</span></strong></th>
+            <th class="top_doctor" width="10%"><strong><span class="hide_480">Status</span><span class="show_480">St</span></strong></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Hugo Rosero</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="20%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Maurice Rachko</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Joseph Tawil</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="10%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Edward Bernaski</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+        </table>
+            </div>
+              </div>
+              <div id="Transactions" class="tab-pane fade">
+                <div class="app-info">
+            	<table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="30%"><strong><span class="hide_480">Doctor's Name</span><span class="show_480">Dr Name</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Date</span><span class="show_480">App Date</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Time</span><span class="show_480">App Time</span></strong></th>
+            <th class="top_doctor" width="10%"><strong><span class="hide_480">Status</span><span class="show_480">St</span></strong></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Hugo Rosero</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="20%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Maurice Rachko</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Joseph Tawil</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="10%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Edward Bernaski</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+        </table>
+            </div>
+              </div>
+              <div id="Patients" class="tab-pane fade">
+                <div class="app-info">
+            	<table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="30%"><strong><span class="hide_480">Doctor's Name</span><span class="show_480">Dr Name</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Date</span><span class="show_480">App Date</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Time</span><span class="show_480">App Time</span></strong></th>
+            <th class="top_doctor" width="10%"><strong><span class="hide_480">Status</span><span class="show_480">St</span></strong></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Hugo Rosero</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="20%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Maurice Rachko</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Joseph Tawil</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="10%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Edward Bernaski</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+        </table>
+            </div>
+              </div>
+              <div id="Payments" class="tab-pane fade">
+                <div class="app-info">
+            	<table width="100%" class="top_doctor">
+          <tr class="top_doctor">
+            <th class="top_doctor" width="30%"><strong><span class="hide_480">Doctor's Name</span><span class="show_480">Dr Name</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Date</span><span class="show_480">App Date</span></strong></th>
+            <th class="top_doctor" width="20%"><strong><span class="hide_480">Appointment Time</span><span class="show_480">App Time</span></strong></th>
+            <th class="top_doctor" width="10%"><strong><span class="hide_480">Status</span><span class="show_480">St</span></strong></th>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Hugo Rosero</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="20%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Maurice Rachko</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Joseph Tawil</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>22.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>10:30 am</strong></td>
+            <td class="top_doctor" width="10%"><strong>Cancel</strong></td>
+          </tr>
+          <tr class="top_doctor">
+            <td class="top_doctor" width="30%"><strong>Dr. Edward Bernaski</strong></td>
+            <td class="top_doctor wb" width="20%"><strong>25.11.2013</strong></td>
+            <td class="top_doctor" width="20%"><strong>07:30 pm</strong></td>
+            <td class="top_doctor" width="10%"><strong>Confirm</strong></td>
+          </tr>
+        </table>
+            </div>
+              </div>
+            </div>
+          </div>
+      <div class="cls"></div>
+    </div>
+  </div>
+</div>
+</div>
+<!--| Contant End |--> 
+
+<!--| footer Start |-->
+<div class="Foot">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <div class="span6 Navi3"> <a href="index.html">Home</a> <a href="find-a-doctor.html">Find a Doctor</a> <a href="view-history.html">View History</a> <a href="blog.html">Patient & Doctor Blog</a> <a href="about-us.html">About Us</a>
+            <div class="cls"></div>
+          </div>
+          <div class="span6 Copyright">© 2013 Chat MD All Rights Reserved.</div>
+        </div>
+      </div>
+    </div>
+    <div class="cls"></div>
+  </div>
+<!--| footer End |--> 
+<!--| Supprting JS |--> 
+<script src="http://code.jquery.com/jquery.js"></script> 
+<script src="js/bootstrap.js"></script> 
+
+</body>
+</html>

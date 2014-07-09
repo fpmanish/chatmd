@@ -1,0 +1,4 @@
+<?php
+header("home/");
+exit;
+?>

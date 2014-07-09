@@ -1,0 +1,6 @@
+[13-Jun-2014 10:07:56 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php:83) in /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php on line 84
+[16-Jun-2014 01:16:02 America/New_York] PHP Warning:  include_once(../../../conf/config.inc.php): failed to open stream: No such file or directory in /home1/km1079/public_html/modules/sign_up/config.php on line 2
+[16-Jun-2014 01:16:02 America/New_York] PHP Warning:  include_once(): Failed opening '../../../conf/config.inc.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/km1079/public_html/modules/sign_up/config.php on line 2
+[17-Jun-2014 06:23:26 America/New_York] PHP Fatal error:  Class 'paypalcheckout' not found in /home1/km1079/public_html/modules/sign_up/checkform.php on line 5
+[17-Jun-2014 08:45:12 America/New_York] PHP Catchable fatal error:  Object of class PHPMailer could not be converted to string in /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php on line 624
+[17-Jun-2014 09:22:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php:341) in /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php on line 638

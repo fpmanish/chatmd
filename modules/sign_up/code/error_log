@@ -1,0 +1,3 @@
+[16-Jun-2014 00:41:17 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/km1079/public_html/modules/sign_up/code/process.php on line 84
+[16-Jun-2014 00:41:17 America/Chicago] PHP Fatal error:  Call to undefined function InsertPaymentDetails() in /home1/km1079/public_html/modules/sign_up/code/process.php on line 87
+[17-Jun-2014 06:20:38 America/Chicago] PHP Fatal error:  Class 'media' not found in /home1/km1079/public_html/modules/sign_up/code/DocReg_code.php on line 2
